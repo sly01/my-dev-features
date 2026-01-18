@@ -1,8 +1,0 @@
-{
-  "id": "alpine-jq-starter",
-  "version": "1.0.0",
-  "name": "Alpine with JQ (Custom)",
-  "description": "A lightweight Alpine starter that includes my custom jq feature.",
-  "keywords": ["alpine", "jq", "starter"],
-  "options": {} 
-}
