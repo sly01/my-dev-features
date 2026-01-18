@@ -1,0 +1,14 @@
+{
+    "id": "install-jq",
+    "version": "1.0.0",
+    "name": "Install jq",
+    "description": "Installs the jq JSON processor",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": ["latest", "1.6"],
+            "default": "latest",
+            "description": "Select version of jq"
+        }
+    }
+}
